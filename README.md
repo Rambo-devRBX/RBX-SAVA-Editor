@@ -29,7 +29,12 @@ Built with Python, the application features a custom interface and an independen
 
 ## Screenshots
 
-Application screenshots will be published here.
+<img width="1403" height="880" alt="resim" src="https://github.com/user-attachments/assets/38c784df-55c2-410e-905e-d72be79020cf" />
+
+<img width="1411" height="876" alt="resim" src="https://github.com/user-attachments/assets/b2eb2199-5e00-466d-bcad-64c153f20042" />
+
+<img width="1413" height="885" alt="resim" src="https://github.com/user-attachments/assets/5ce6eca5-7073-45fd-a2a1-92ef8a021b16" />
+
 
 ## Download
 
